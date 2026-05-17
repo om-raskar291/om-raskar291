@@ -37,7 +37,7 @@
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (your link)
+- LinkedIn: https://www.linkedin.com/in/om-raskar-566338220
 
 ---
 
