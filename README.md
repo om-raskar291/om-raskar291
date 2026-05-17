@@ -42,3 +42,23 @@
 ---
 
 ⭐ Always open to learning, collaborating, and exploring data-driven solutions
+
+
+
+## 📊 GitHub Stats & Skills
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge)
