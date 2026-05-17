@@ -1,19 +1,44 @@
-Hi, I'm Om Raskar 👋  
-Assistant System Engineer with 1+ year experience, currently building skills in Data Science & Machine Learning.
+# Hi, I'm Om Raskar 👋
 
-💻 Skills:
-- Python (Pandas, NumPy)
+💼 Assistant System Engineer with 1+ year of experience in system operations  
+📊 Passionate about Data Science & Machine Learning  
+
+---
+
+## 🚀 About Me
+- Experience working with systems, data handling, and problem-solving  
+- Skilled in Python, SQL, and PDBC(MongoDb + File handling)  
+- Actively building projects in Data Analysis & Machine Learning  
+- Strong interest in extracting insights from real-world data  
+
+---
+
+## 🛠️ Skills
+- Python (Pandas, MongoDb, File Handling)
 - SQL
-- MongoDB
 - Data Analysis
-- Basic Machine Learning
+- Machine Learning
+- Data Visualization (Matplotlib / Seaborn)
 
-- 📊 Currently:
-- Working on Data Analysis & ML projects
-- Learning advanced Python & statistics
-- Exploring real-world datasets
+---
 
-- 🚀 Projects:
-- Sales Data Analysis (Python + Pandas)
-- Customer Segmentation (ML)
-- MongoDB Data Handling Project
+## 📊 Projects
+- 🔹 **House Price Prediction**  
+  Analyzed datasets using Linear Regression to find trends and improve decision-making  
+
+---
+
+## 📈 Currently
+- Learning advanced Machine Learning concepts
+- Learning ML-Ops
+- Working on real-world datasets  
+- Improving problem-solving & analytical thinking  
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: (your link)
+
+---
+
+⭐ Always open to learning, collaborating, and exploring data-driven solutions
