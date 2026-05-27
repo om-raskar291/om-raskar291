@@ -23,8 +23,8 @@
 ---
 
 ## 📊 Projects
-- 🔹 **House Price Prediction**  
-  Analyzed datasets using Linear Regression to find trends and improve decision-making  
+- 🔹 **Insurance Cost Prediction**  
+- 🔹 **House Price Prediction**   
 
 ---
 
