@@ -79,7 +79,7 @@ To build scalable Machine Learning solutions that solve real-world business prob
 ## 🔗 Connect With Me
 
 LinkedIn:
-www.linkedin.com/in/om-raskar-566338220
+www.linkedin.com/in/om-raskar-ai
 
 ---
 
