@@ -43,7 +43,7 @@
 ### Visualization
 - Matplotlib
 - Seaborn
-- 
+  
 ---
 
 ## 📊 ML Projects
@@ -52,12 +52,6 @@
 |---|---|---|---|
 | Time Series Forecasting | Retail Sales | ARIMA, SARIMA | ✅ Complete |
 | Credit Risk Assessment | Financial Dataset | Decision Tree | ✅ Complete |
-
-### 🔹 Insurance Cost Prediction
-Built and evaluated regression models to predict insurance costs using feature engineering, data preprocessing, and model evaluation techniques.
-
-### 🔹 Time Series Forecasting
-Developed forecasting models using AR, ARIMA, and SARIMA to analyze trends, seasonality, and future values in time-dependent datasets.
 
 ---
 
