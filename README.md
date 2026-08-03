@@ -71,10 +71,12 @@ To build scalable Machine Learning solutions that solve real-world business prob
 
 ---
 
+⭐ Open to Machine Learning, AI, and MLOps opportunities.
+
 ## 🔗 Connect With Me
 
-⭐ Open to Machine Learning, AI, and MLOps opportunities.
 📫 om020901raskar@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/om-raskar-ai)
 
 ---
