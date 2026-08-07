@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - Working in the Banking domain as part of the SBI project
-- Experienced in data handling, log analysis, root cause analysis, and problem-solving
+- Experienced in data analysis, log analysis, root cause analysis, and problem-solving
 - Skilled in Python, SQL, Python File Handling, and Python Database Connectivity (MongoDB)
 - Hands-on experience building Machine Learning and Time Series Forecasting models
 - Currently exploring Deep Learning, Artificial Intelligence, and MLOps
@@ -20,30 +20,14 @@
 ---
 
 ## 🛠️ Technical Skills
+**Programming:** Python | SQL  
+**Data Analytics:** Data Analysis | EDA | Data Preprocessing | Microsoft Excel  
+**Machine Learning:** Supervised Learning | Regression | Classification | Decision Trees | Random Forest | Scikit-learn  
+**Time Series Forecasting:** AR | ARIMA | SARIMA  
+**Libraries & Visualization:** Pandas | NumPy | Matplotlib | Seaborn  
+**Databases:** MongoDB (PDBC)  
+📈**Currently Learning:** Deep Learning | MLOps | Production-ready ML Pipelines
 
-### Programming & Data Handling
-- Python
-- SQL
-- Python File Handling
-- PDBC (Python Database Connectivity - MongoDB)
-
-### Machine Learning
-- Supervised Learning
-- Regression Models
-- Decision Trees
-- Random Forest
-- Model Evaluation
-- Feature Engineering
-
-### Time Series Forecasting
-- Auto Regression (AR)
-- ARIMA
-- SARIMA
-
-### Visualization
-- Matplotlib
-- Seaborn
-  
 ---
 
 ## 📊 ML Projects
@@ -55,13 +39,12 @@
 
 ---
 
-## 📈 Current Focus
+🌐 Live Projects
+🚀 Streamlit Profile
+🔗 https://share.streamlit.io/user/om-raskar291
 
-- Deep Learning Fundamentals
-- Neural Networks
-- Model Deployment
-- MLOps
-- Production-ready ML Pipelines
+📈 Time Series Forecasting App
+🔗 https://timeseriesanalysis-aigtzpx8sbgqc5n3aqkorj.streamlit.app/
 
 ---
 
@@ -78,5 +61,7 @@ To build scalable Machine Learning solutions that solve real-world business prob
 📫 om020901raskar@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/om-raskar-ai)
+
+🌐 Streamlit Portfolio: https://share.streamlit.io/user/om-raskar291
 
 ---
