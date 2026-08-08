@@ -48,12 +48,6 @@
 
 ---
 
-## 🎯 Career Goal
-
-To build scalable Machine Learning solutions that solve real-world business problems and deliver measurable impact.
-
----
-
 ⭐ Open to Machine Learning, AI, and MLOps opportunities.
 
 ## 🔗 Connect With Me
