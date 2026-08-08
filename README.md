@@ -62,6 +62,4 @@ To build scalable Machine Learning solutions that solve real-world business prob
 
 🔗 [LinkedIn](https://www.linkedin.com/in/om-raskar-ai)
 
-🌐 Streamlit Portfolio: https://share.streamlit.io/user/om-raskar291
-
 ---
