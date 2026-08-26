@@ -69,12 +69,4 @@ https://share.streamlit.io/user/om-raskar291
 
 ---
 
-## 📫 Connect With Me
-
-📧 om020901raskar@gmail.com
-
-💼 LinkedInn - https://www.linkedin.com/in/om-raskar-ai
-
----
-
 ⭐ Open to opportunities in **Machine Learning | AI | Generative AI | MLOps**
