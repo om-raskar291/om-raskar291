@@ -73,9 +73,7 @@ https://share.streamlit.io/user/om-raskar291
 
 📧 om020901raskar@gmail.com
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/om-raskar-ai
+💼 LinkedInn - https://www.linkedin.com/in/om-raskar-ai
 
 ---
 
