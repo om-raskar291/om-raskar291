@@ -1,59 +1,82 @@
----
 # Hi, I'm Om Raskar 👋
 
-💼 Assistant System Engineer with 1 year 4 months of experience in Banking Domain Operations
+💼 Assistant Systems Engineer at TCS with **1.5+ years** of experience in Banking Domain Operations.
 
-🤖 Machine Learning Enthusiast focused on Predictive Modeling, Time Series Forecasting, and MLOps
+🤖 Passionate about **Machine Learning, Retrieval-Augmented Generation (RAG), Time Series Forecasting, and MLOps**.
 
-🚀 Building intelligent solutions using Machine Learning and Deep Learning techniques
+🚀 Building intelligent AI solutions using Python, Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
 ## 🚀 About Me
 
-- Working in the Banking domain as part of the SBI project
-- Experienced in data analysis, log analysis, root cause analysis, and problem-solving
-- Skilled in Python, SQL, Python File Handling, and Python Database Connectivity (MongoDB)
-- Hands-on experience building Machine Learning and Time Series Forecasting models
-- Currently exploring Deep Learning, Artificial Intelligence, and MLOps
+- 💼 Assistant Systems Engineer at **TCS**, currently working on the **State Bank of India (SBI)** banking project.
+- 📊 Experience working with **production banking applications**, SQL, Python, Data Analysis, Log Analysis, and Root Cause Analysis.
+- 🤖 Hands-on experience in **Machine Learning, Retrieval-Augmented Generation (RAG), and Time Series Forecasting**.
+- 📚 Currently learning **Deep Learning, MLOps, and Production-ready ML Systems**.
+- 🌱 Building and deploying AI/ML applications using **Streamlit**.
 
 ---
 
 ## 🛠️ Technical Skills
-**Programming:** Python | SQL  
-**Data Analytics:** Data Analysis | EDA | Data Preprocessing | Microsoft Excel  
-**Machine Learning:** Supervised Learning | Regression | Classification | Decision Trees | Random Forest | Scikit-learn  
-**Time Series Forecasting:** AR | ARIMA | SARIMA  
-**Libraries & Visualization:** Pandas | NumPy | Matplotlib | Seaborn  
-**Databases:** MongoDB (PDBC)  
-📈**Currently Learning:** Deep Learning | MLOps | Production-ready ML Pipelines
+
+**Programming:** Python | SQL
+
+**Data Analytics:** EDA | Data Preprocessing | Excel
+
+**Machine Learning:** Regression | Classification | Decision Trees | Random Forest | Scikit-learn
+
+**Generative AI:** LangChain | Google Gemini | ChromaDB | RAG
+
+**Time Series:** AR | ARIMA | SARIMA
+
+**Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Streamlit
 
 ---
 
-## 📊 ML Projects
+# 📊 Featured Projects
 
-| Project | Dataset | Algorithms | Status |
-|---|---|---|---|
-| Time Series Forecasting | Retail Sales | ARIMA, SARIMA | ✅ Complete |
-| Credit Risk Assessment | Financial Dataset | Decision Tree | ✅ Complete |
+## 📄 RAG Document Reader ⭐
+
+**Tech Stack:** LangChain • Gemini • ChromaDB • RAG • Streamlit
+
+- Upload PDF, DOCX & TXT files
+- Ask natural language questions
+- Semantic Search using Vector Embeddings
+- Fully deployed on Streamlit
+
+🔗 **Live Demo:** https://your-rag-app.streamlit.app/
 
 ---
 
-🌐 Live Projects
+## 📈 Time Series Forecasting
+
+**Tech Stack:** ARIMA • SARIMA • Pandas • Streamlit
+
+- Retail Sales Forecasting
+- ARIMA & SARIMA Models
+- Interactive Streamlit Dashboard
+
+🔗 **Live Demo:** https://timeseriesanalysis-aigtzpx8sbgqc5n3aqkorj.streamlit.app/
+
+---
+
+## 🌐 Live Apps
+
 🚀 Streamlit Profile
-🔗 https://share.streamlit.io/user/om-raskar291
 
-📈 Time Series Forecasting App
-🔗 https://timeseriesanalysis-aigtzpx8sbgqc5n3aqkorj.streamlit.app/
+https://share.streamlit.io/user/om-raskar291
 
 ---
 
-⭐ Open to Machine Learning, AI, and MLOps opportunities.
+## 📫 Connect With Me
 
-## 🔗 Connect With Me
+📧 om020901raskar@gmail.com
 
-📫 om020901raskar@gmail.com
+💼 LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/in/om-raskar-ai)
+https://www.linkedin.com/in/om-raskar-ai
 
 ---
+
+⭐ Open to opportunities in **Machine Learning | AI | Generative AI | MLOps**
